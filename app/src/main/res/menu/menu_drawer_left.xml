@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item android:title="@string/sishang_name"/>
+        <item android:title="@string/siya_name"/>
+        <item android:title="@string/youguo_name"/>
+        <item android:title="@string/ru_name"/>
+        <item android:title="@string/heisi_name"/>
+        <item android:title="@string/rq_name"/>
+        <item android:title="@string/dgc_name"/>
+        <item android:title="@string/rosi_name"/>
+        <item android:title="@string/pans_name"/>
+        <item android:title="@string/disi_name"/>
+        <item android:title="@string/xiuren_name"/>
+        <item android:title="@string/tuinv_name"/>
+        <item android:title="@string/simei_name"/>
+        <item android:title="@string/meiyuan_name"/>
+        <item android:title="@string/aa_name"/>
+        <item android:title="@string/donggan_name"/>
+        <item android:title="@string/only_name"/>
+    </group>
+
+<!--    <item android:title="Communicate">-->
+<!--        <menu>-->
+<!--            <item-->
+<!--                android:id="@+id/nav_share"-->
+<!--                android:icon="@drawable/ic_menu_share"-->
+<!--                android:title="Share"/>-->
+<!--            <item-->
+<!--                android:id="@+id/nav_send"-->
+<!--                android:icon="@drawable/ic_menu_send"-->
+<!--                android:title="退出登录"/>-->
+<!--        </menu>-->
+<!--    </item>-->
+
+</menu>
